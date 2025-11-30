@@ -37,4 +37,4 @@ Your application will start running in the background. 🚀
 
 Get a quick overview of how **Pdf2Image Web** works:
 
-![Video](./video.webm)
+[video.webm](https://github.com/user-attachments/assets/d707f824-32db-4854-8ebe-6574a2d7c40d)
