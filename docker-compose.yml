@@ -1,0 +1,12 @@
+services:
+  app_backend:
+    build: ./backend
+    container_name: pdf2images_app
+    ports:
+      - "5800:5800"
+    
+  app_frontend:
+    build: ./frontend    
+    container_name: pdf2Images_web
+    ports:
+      - "8000:8080"
